@@ -1,6 +1,6 @@
 ---
 layout:posts
-Title: "Photography"
+Title: "photography"
 Date: 2018-03-12 12:30
 categories: Jekyll update
 comments: True
