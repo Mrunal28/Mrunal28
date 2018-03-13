@@ -1,9 +1,9 @@
 ---
-layout:posts
+layout: posts
 Title: "photography"
-Date: 2018-03-12 12:30
+Date: 2018-03-12 12-30
 categories: Jekyll update
-comments: True
+comments: true
 ---
 
 
@@ -11,6 +11,11 @@ comments: True
 
 hellos these are my photos
 https://user-images.githubusercontent.com/36836512/37269323-d797fed8-25ef-11e8-9092-17ed52ed9d19.jpg
+
+
+
+
+
 {% if page.comments %}
 <div id="disqus_thread"></div>
 <script>

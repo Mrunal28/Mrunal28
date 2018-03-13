@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "gliders!"
-date:   2018-03-12 1:06
+date:   2018-03-12 1-06
 categories: jekyll update
-comments: True
+comments: true
 ---
 
 Gliders are the best! they really are
-{% if page.comments %}
+
+{% capture page.comments %}
 <div id="disqus_thread"></div>
 <script>
 
@@ -30,4 +31,4 @@ s.setAttribute('data-timestamp', +new Date());
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 
-{% endif %}
+{% endcapture %}
