@@ -10,7 +10,8 @@ comments: true
 
 
 hello these are my photos
-![statue6 copy 01](https://user-images.githubusercontent.com/36836512/37693440-b114a8b8-2ce5-11e8-9e6f-cea39fe4ba95.jpg)
+![statue6 copym](https://user-images.githubusercontent.com/36836512/37693589-aea0121a-2ce6-11e8-81ae-00048a74516d.jpg)
+
 
 
 
