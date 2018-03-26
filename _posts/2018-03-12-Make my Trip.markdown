@@ -8,7 +8,7 @@ comments: true
 
 
 
-The assignment which I am posting reflects one o the many experiences I had as a student of School of design.
+The assignment which I am posting reflects one of the many experiences I had as a student of School of design.
 This assignment of mine is about recreating the brand guidelines, logo, letterhead and business card of make my trip.
 ![se_17-21_y1s2_21_mrunal_brandguidelines](https://user-images.githubusercontent.com/36836512/37871449-adf37db6-300b-11e8-89d8-c9a3b8a5e368.jpg)
 
@@ -33,6 +33,8 @@ Photography
 Do's and Don'ts
 ![se_17-21_y1s2_21_mrunal_brandguidelines8](https://user-images.githubusercontent.com/36836512/37871542-aed136e0-300d-11e8-8375-aa626e3d3675.jpg)
 
+letterhead and business card
+[SE_17-21_Y1S2_21_Mrunal_Letterheand and business card.pdf](https://github.com/Mrunal28/mrunal28.github.io/files/1846202/SE_17-21_Y1S2_21_Mrunal_Letterheand.and.business.card.pdf)
 
 
 
