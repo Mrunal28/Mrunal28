@@ -6,7 +6,6 @@ categories: jekyll update
 comments: true
 ---
 
-Gliders are the best! they really are
 
 ![iluusion of threads](https://user-images.githubusercontent.com/36836512/37877011-34505530-3072-11e8-9698-a291267650bf.jpg)
 
