@@ -34,8 +34,7 @@ Do's and Don'ts
 ![se_17-21_y1s2_21_mrunal_brandguidelines8](https://user-images.githubusercontent.com/36836512/37871542-aed136e0-300d-11e8-8375-aa626e3d3675.jpg)
 
 letterhead and business card
-[SE_17-21_Y1S2_21_Mrunal_Letterheand and business card.pdf](https://github.com/Mrunal28/mrunal28.github.io/files/1846202/SE_17-21_Y1S2_21_Mrunal_Letterheand.and.business.card.pdf)
-
+![se_17-21_y1s2_21_mrunal_letterheand and business card](https://user-images.githubusercontent.com/36836512/37885124-19bab40e-30d1-11e8-9dbc-cabf84a121b0.jpg)
 
 
 
