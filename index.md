@@ -4,4 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-![statue 9](https://user-images.githubusercontent.com/36836512/37268438-fe6be85c-25eb-11e8-859b-31d1e52755f0.jpg)
+Hello everyone!
+Please check out my blog. One of the post describes the life i live in Mumbai city while the other one is the work I am doing as a design student.  
