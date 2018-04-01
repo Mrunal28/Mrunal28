@@ -10,7 +10,7 @@ comments: true
 
 The assignment which I am posting reflects one of the many experiences I had as a student of School of design.
 Tourism is one of the most aspects of life. It is a gateway from our normal daily routine. All our travels not only helps us to see the outside world but also holds our most precious memories. So if travels hold so much value each travel should be nothing less than perfect.
-So check out why Make My Trip is considered to be the perfect from the brand guidelines. 
+So check out why Make My Trip is considered to be the perfect from the brand guidelines.
 ![se_17-21_y1s2_21_mrunal_brandguidelines](https://user-images.githubusercontent.com/36836512/37871449-adf37db6-300b-11e8-89d8-c9a3b8a5e368.jpg)
 
 Brand story
